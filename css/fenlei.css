@@ -1,0 +1,115 @@
+/*
+* @Author: UEK-2016
+* @Date:   2017-09-12 08:23:23
+* @Last Modified by:   UEK-2016
+* @Last Modified time: 2017-09-12 10:11:23
+*/
+header{
+	width: 100px;
+	height: .45rem;
+	position: fixed;
+	left: 0;
+	top: 0;
+	padding: 0 .15rem;
+}
+.k{
+	width:3.45rem;
+	height: .45rem;
+	margin: 0 auto;
+}
+.k input{
+	display: block;
+	width: 3.45rem;
+	height: .3rem;
+	background-color: #f0f4f7;
+	line-height:.3rem; 
+	margin-top: .07rem;
+	border: 0;
+}
+section{
+	width: 100%;
+	position: absolute;
+	left: 0;
+	right: 0;
+	top: .45rem;
+	bottom: .47rem;
+}
+.box2{
+	width: 3.45rem;
+	height: 5.96rem;
+	margin: 0 auto;
+	background-color: pink;
+}
+.k2{
+	width: 25%;
+	height: 1.49rem;
+	background-color: white;
+	float: left;
+	border-top: 0.02rem solid pink;
+	border-right: 0.02rem solid pink;
+	border-bottom: 0.01rem solid pink;
+}
+.k3{
+	width: 100%;
+	height: 1.18rem;
+	background-image: url('../img/2.png');
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+.k2 span{
+	display: block;
+	font-size: .14rem;
+	line-height: .14rem;
+	color: #5f5f5f;
+	margin-left: .2rem;
+}
+footer{
+	width: 100%;
+	height: .47rem;
+	background-color: white;
+	position: fixed;
+	left:0;
+	bottom: 0;
+	border-top:.01rem  #f0f4f7 solid; 
+}
+.box3{
+	width: 3.45rem;
+	height: .47rem;
+	margin: 0 auto;
+}
+.k4{
+	width: 25%;
+	height: .47rem;
+	float: left;
+	/* background-color: skyblue; */
+}
+.k5{
+	width: .23rem;
+	height: .20rem;
+	/* background-color: gold; */
+	margin-left: .315rem;
+	margin-top: .035rem;
+	background-image: url('../img/3.png');
+	background-repeat: no-repeat;
+	background-size: contain;
+}
+.k4 span{
+	display: block;
+	font-size: .11rem;
+	color: #e00c4e;
+	line-height: .11rem;
+	margin-left: .3rem;
+	margin-top: .05rem;
+}
+.k6{
+	background-image: url('../img/4.png');
+}
+.k7{
+	background-image: url('../img/5.png');
+}
+.k8{
+	background-image: url('../img/6.png');
+}
+.k4 .wenzi{
+	margin-left: .25rem;
+}
